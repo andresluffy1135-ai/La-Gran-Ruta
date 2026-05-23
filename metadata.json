@@ -1,0 +1,6 @@
+{
+  "name": "One Piece Dungeon Explorer",
+  "description": "An action-adventure RPG dungeon game in the style of Zelda: The Minish Cap, featuring Luffy exploring Shells Town dungeon to rescue Zoro, with special combat, barriers, chests, and enemies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
